@@ -1,0 +1,7 @@
+.toReadRecommendations {
+    text-align: center;
+}
+  
+.toReadRecommendations > button {
+    font-size: 1.25rem;
+}
